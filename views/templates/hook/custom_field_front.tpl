@@ -1,0 +1,1 @@
+<span class="product_name" style="font-size: 22px;" >{$product.custom_field}</span>
