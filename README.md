@@ -1,4 +1,4 @@
-<p align="center"><img src="https://example.com/your-module-logo.svg"></p>
+<p align="center"><img src="	https://devesta.ir/assets/img/devestalogo.png"></p>
 
 # Custom Fields for PrestaShop
 
@@ -35,8 +35,8 @@ This module is open-sourced software licensed under the [MIT license](http://ope
 
 ## Contributing
 
-Contributions are welcome! Please report any issues you find on the [Issues page](https://github.com/your-repo/issues). If you want to contribute, feel free to open a pull request.
+Contributions are welcome! Please report any issues you find on the [Issues page](https://github.com/hojatmohamadi/devesta_product_custom_field/issues). If you want to contribute, feel free to open a pull request.
 
 ## Contact
 
-For further inquiries, you can reach out at [hojjatmohammadi@gmail.com].
+For further inquiries, you can reach out at [eng.hojjatmohammadi@gmail.com].
